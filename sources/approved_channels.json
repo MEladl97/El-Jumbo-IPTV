@@ -1,0 +1,35 @@
+[
+  {
+    "name": "France 24 Arabic",
+    "group": "Arabic | News",
+    "tvg_id": "France24Arabic.fr",
+    "url": "https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8"
+  },
+  {
+    "name": "Al Jazeera English",
+    "group": "International | News",
+    "tvg_id": "AlJazeeraEnglish.qa",
+    "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
+  },
+  {
+    "name": "DW English",
+    "group": "International | News",
+    "tvg_id": "DWEnglish.de",
+    "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+  },
+  {
+    "name": "ARTE French",
+    "group": "International | Culture",
+    "url": "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8"
+  },
+  {
+    "name": "Europe by Satellite",
+    "group": "International | News",
+    "url": "https://euc-live.fl.freecaster.net/live/eucom/ebs-audio_int=96000-video=2600000.m3u8"
+  },
+  {
+    "name": "Europe by Satellite Plus",
+    "group": "International | News",
+    "url": "https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=2600000.m3u8"
+  }
+]
