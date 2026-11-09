@@ -16,7 +16,7 @@ jobs:
       - run: python tools/build_discovery.py
       - name: Commit refreshed discovery playlist
         run: |
-          if ! git diff --quiet -- El_Jumbo_Discovery.m3u || [ ! -f El_Jumbo_Discovery.m3u ]; then
+          if [ -n "$(git status --porcelain -- El_Jumbo_Discovery.m3u)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add El_Jumbo_Discovery.m3u
