@@ -233,7 +233,7 @@ https://ch14.tv/live/ch4teendoc/playlist.m3u8
 https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8
 #EXTINF:-1 tvg-id="Channel8.iq@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Channel8corp.png/960px-Channel8corp.png" group-title="Arabic",Channel8 (720p)
 https://live.channel8.com/Channel8-Kurdish/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="CharityTV.lb@SD" tvg-logo="https://i.imgur.com/U9z8WBY.png" group-title="Arabic",Charity TV
+#EXTINF:-1 tvg-id="CharityTV.lb@SD" tvg-logo="https://i.imgur.com/U9z8WBY.png" group-title="Arabic",Charity TV (1080p)
 https://652930de05533.streamlock.net/live/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CNA.dz@SD" tvg-logo="https://i.imgur.com/Ki3ySUE.png" group-title="Arabic",CNA (Algeria) (360p) [Not 24/7]
 https://live.creacast.com/cna/stream/playlist.m3u8
@@ -575,7 +575,7 @@ https://nl.livekadeh.com/hls2/vilayet.m3u8
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WatarRadio.ae@SD" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/d2/ad/fullhd_48adf2291d08266c05ed1b0c24f326c86b1095b7.png" group-title="Arabic",Watar Radio (1080p)
 https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
-#EXTINF:-1 tvg-id="WattanTV.ps@SD" tvg-logo="https://i.imgur.com/sf2A9vT.png" group-title="Arabic",Wattan TV
+#EXTINF:-1 tvg-id="WattanTV.ps@SD" tvg-logo="https://i.imgur.com/sf2A9vT.png" group-title="Arabic",Wattan TV (720p)
 https://htvmada.mada.ps:4443/wattan/index.m3u8
 #EXTINF:-1 tvg-id="WelatTV.sy@HD" tvg-logo="https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4" group-title="Arabic",Welat TV (1080i)
 https://stream.badinan.xyz/welat/tv/playlist.m3u8
